@@ -1,4 +1,6 @@
 # steward
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=RaaLabs_steward&metric=alert_status)](https://sonarcloud.io/dashboard?id=RaaLabs_steward)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=RaaLabs_steward&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=RaaLabs_steward)
 
 How do you control or know the state of something that are either allways online or occasionally available online ? like Servers or IOT platforms where the link for reaching them can be a not-always-connected satellite, GSM, or even reliable fiber links that might fail ?
 
